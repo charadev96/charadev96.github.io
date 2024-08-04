@@ -1,0 +1,10 @@
+title: '96'
+description: 'Website for personal projects.'
+
+header_pages:
+  - index.md
+
+style: dark
+listen_for_clients_preferred_style: false
+
+remote_theme: b2a3e8/jekyll-theme-console
