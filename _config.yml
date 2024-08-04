@@ -4,7 +4,7 @@ description: 'Website for personal projects.'
 header_pages:
   - index.md
 
-footer: '<a href="https://github.com/charadev96">github</a>'
+footer: '''<a href="https://github.com/charadev96">github</a>\n<a href="https://www.youtube.com/@charadev96">youtube</a>
 
 style: dark
 listen_for_clients_preferred_style: false
